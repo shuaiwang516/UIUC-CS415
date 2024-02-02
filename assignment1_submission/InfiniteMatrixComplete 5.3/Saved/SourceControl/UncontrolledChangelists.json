@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset"
+			]
+		}
+	]
+}
