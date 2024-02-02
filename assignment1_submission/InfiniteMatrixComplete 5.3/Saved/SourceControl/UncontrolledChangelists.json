@@ -12,7 +12,9 @@
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPacket.uasset",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset"
 			]
 		}
 	]
