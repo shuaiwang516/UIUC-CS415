@@ -1,1 +1,1 @@
-# UIUC-CS415-GameDesign
+# UIUC-CS415
