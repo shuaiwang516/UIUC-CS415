@@ -15,7 +15,11 @@
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset"
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Blueprints/BP_CameraShake.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Music/bgm.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/Music/HitSound.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/HealthColor.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment1_submission/InfiniteMatrixComplete 5.3/Content/InfiniteMatrix/UI/BPFO_HEALTH.uasset"
 			]
 		}
 	]
