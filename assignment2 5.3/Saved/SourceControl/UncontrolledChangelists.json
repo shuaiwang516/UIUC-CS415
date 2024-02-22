@@ -14,7 +14,9 @@
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthWidget.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_Restart.uasset"
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_Restart.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/ScoreWidget.uasset"
 			]
 		}
 	]
