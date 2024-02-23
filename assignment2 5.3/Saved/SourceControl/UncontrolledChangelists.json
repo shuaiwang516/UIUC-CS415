@@ -9,14 +9,17 @@
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/Hour_of_Code/Widgets/W_healthBar.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Maps/Assignment2.umap",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_UI.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/HealthWidget.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_Restart.uasset",
 				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Pickup_BP.uasset",
-				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/ScoreWidget.uasset"
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/ScoreWidget.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/EAIState.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_UI.uasset",
+				"/Users/allenwang/Documents/uiuc-course/UIUC-CS415-GameDesign/assignment2 5.3/Content/LearningKit_Games/Blueprints/UI/WBP_Restart.uasset"
 			]
 		}
 	]
